@@ -1,0 +1,15 @@
+USS ENTERPRISE (CVN 65),           ENTERPRISE class, Commissioned: 11/25/1961, Decommissioned: 02/03/2017
+USS AMERICA (CV 66),               KITTY HAWK class, Commissioned: 01/23/1965, Decommissioned: 08/09/1996
+USS JOHN F. KENNEDY (CV 67),       KENNEDY class,    Commissioned: 09/07/1968, Decommissioned: 08/01/2007
+USS NIMITZ (CVN 68),               NIMITZ class,     Commissioned: 05/03/1975, Decommissioned: No
+USS DWIGHT D. EISENHOWER (CVN 69), NIMITZ class,     Commissioned: 10/18/1977, Decommissioned: No
+USS CARL VINSON (CVN 70),          NIMITZ class,     Commissioned: 03/13/1982, Decommissioned: No
+USS THEODORE ROOSEVELT (CVN 71),   NIMITZ class,     Commissioned: 10/25/1986, Decommissioned: No
+USS ABRAHAM LINCOLN (CVN 72),      NIMITZ class,     Commissioned: 11/11/1989, Decommissioned: No
+USS GEORGE WASHINGTON (CVN 73),    NIMITZ class,     Commissioned: 07/04/1992, Decommissioned: No
+USS JOHN C. STENNIS (CVN 74),      NIMITZ class,     Commissioned: 12/09/1995, Decommissioned: No
+USS HARRY S. TRUMAN (CVN 75),      NIMITZ class,     Commissioned: 07/25/1998, Decommissioned: No
+USS RONALD REAGAN (CVN 76),        NIMITZ class,     Commissioned: 07/12/2003, Decommissioned: No
+USS GEORGE H. W. BUSH (CVN 77),    NIMITZ class,     Commissioned: 01/10/2009, Decommissioned: No
+USS GERALD R. FORD (CVN 78),       NIMITZ class,     Commissioned: 07/22/2017, Decommissioned: No
+PCU JOHN F. KENNEDY (CVN 79),      NIMITZ class,     Commissioned: No,         Decommissioned: No
