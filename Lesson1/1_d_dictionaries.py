@@ -13,7 +13,8 @@ Date:
 
 # Here is a dictionary of aircraft carriers
 # The 'key' is the hull number and the 'value' is the name
-aircraft_carriers = {68:'USS NIMITZ',\
+aircraft_carriers = {65:'USS ENTERPRISE',\
+                     68:'USS NIMITZ',\
                      69:'USS DWIGHT D. EISENHOWER',\
                      70:'USS CARL VINSON',\
                      71:'USS THEODORE ROOSEVELT',\

@@ -12,7 +12,7 @@ Date:
 # https://docs.python.org/3.8/tutorial/introduction.html#lists
 
 # Here is a list of aircraft carriers
-aircraft_carriers = ['USS ENTERPRISE'\
+aircraft_carriers = ['USS ENTERPRISE',\
                      'USS NIMITZ',\
                      'USS DWIGHT D. EISENHOWER',\
                      'USS CARL VINSON',\
