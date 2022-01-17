@@ -1,6 +1,6 @@
 # How to Install Python
 
-Author: John Quennoz  
+Author: John Q
 Date: 22 December 2022
 
 <br>

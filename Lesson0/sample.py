@@ -1,7 +1,7 @@
 """
 Sample Python Program
 
-Author: John Quennoz
+Author: John Q
 Date:   4 January 2021
 """
 
