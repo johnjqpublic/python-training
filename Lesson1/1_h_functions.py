@@ -36,7 +36,7 @@ aircraft_carriers = {65:{'name':'USS ENTERPRISE',           'class':'ENTERPRISE'
 def calculate_years(start_date, end_date):
     import datetime
 
-    # FIXME: finish this!
+    #FIXME: finish this!
 
     # Return the answer
     return
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         # Calculate the years of service of the carrier
         years_of_service = calculate_years(aircraft_carriers[ship]['comm_date'], aircraft_carriers[ship]['decomm_date'])
 
-        # TODO: come up with a way to print the results in an easily readable manner
+        #TODO: come up with a way to print the results in an easily readable manner
 
     print('')
 

@@ -25,8 +25,8 @@ aircraft_carriers = {65:'USS ENTERPRISE',\
                      76:'USS RONALD REAGAN',\
                      77:'USS GEORGE H. W. BUSH'}
 
-# NOTE: The '\' character breaks input across lines
-# NOTE: This can be useful to improve the readability of code
+#NOTE: The '\' character breaks input across lines
+#NOTE: This can be useful to improve the readability of code
 
 # Start by printing the entire dictionary to see what it looks like
 
@@ -80,7 +80,7 @@ aircraft_carriers_new = {65:['USS ENTERPRISE',           '11/25/1961', '02/03/20
 
 # Here's a basic example of how to address an element of a list within a dictionary
 print(''); print(aircraft_carriers_new[65][0]); print('')
-# NOTE: Semi-colons can be used to separate multiple commands on the same line
+#NOTE: Semi-colons can be used to separate multiple commands on the same line
 
 
 
@@ -103,14 +103,14 @@ aircraft_carriers_new_new = {65:{'name':'USS ENTERPRISE',           'class':'ENT
                              78:{'name':'USS GERALD R. FORD',       'class':'FORD',       'comm_date':'07/22/2017', 'decomm_date':False},\
                              79:{'name':'PCU JOHN F. KENNEDY',      'class':'FORD',       'comm_date':False,        'decomm_date':False}}
 
-# NOTE: If you like that then you'll probably be a fan of pandas DataFrames
+#NOTE: If you like that then you'll probably be a fan of pandas DataFrames
 
 # You don't need to do anything with this dictionary unless you want to
 # Feel free to experiment
 
 # Here's a basic example of how to address an element of a dictionary within a dictionary
 print(''); print(aircraft_carriers_new_new[68]['name']); print('')
-# NOTE: Semi-colons can be used to separate multiple commands on the same line
+#NOTE: Semi-colons can be used to separate multiple commands on the same line
 
 
 

@@ -18,11 +18,11 @@ Date:
 
 # Once you have the file loaded into a dictionary, generate a report of only decommissioned carriers
 # Format the report as a table with column headings
-# NOTE: The '\t' special character is the Tab character
+#NOTE: The '\t' special character is the Tab character
 # Write the report to the file 'decomm_report.txt'
 
 
 
 # Congratulations! You have completed the lesson on file operations
-# NOTE: You've also written a parser script
-# NOTE: You can apply these same principles to post-processing computer output files
+#NOTE: You've also written a parser script
+#NOTE: You can apply these same principles to post-processing computer output files

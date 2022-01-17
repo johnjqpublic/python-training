@@ -29,8 +29,8 @@ aircraft_carriers = ['USS NIMITZ',\
                      'USS GEORGE H. W. BUSH',\
                      'USS GERALD R. FORD']
 
-# NOTE: The '\' character breaks input across lines
-# NOTE: This can be useful to improve the readability of code
+#NOTE: The '\' character breaks input across lines
+#NOTE: This can be useful to improve the readability of code
 
 # Using a for loop, iterate over the entire list and create a dictionary 
 # of ship names using hull numbers as keys (e.g., {68:'USS NIMITZ', ... })

@@ -31,13 +31,13 @@ aircraft_carriers = ['USS NIMITZ',\
                      'USS GEORGE H. W. BUSH',\
                      'USS GERALD R. FORD']
 
-# NOTE: The '\' character breaks input across lines
-# NOTE: This can be useful to improve the readability of code
+#NOTE: The '\' character breaks input across lines
+#NOTE: This can be useful to improve the readability of code
 
 # Using a while loop, iterate over the entire list and create a dictionary 
 # of ship names using hull numbers as keys (e.g., {68:'USS NIMITZ', ... })
 # Only include ships with hull numbers <= 77
-# NOTE: The '+=' operator is useful for incrementing counter variables
+#NOTE: The '+=' operator is useful for incrementing counter variables
 
 
 

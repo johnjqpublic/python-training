@@ -24,8 +24,8 @@ aircraft_carriers = ['USS ENTERPRISE',\
                      'USS RONALD REAGAN',\
                      'USS GEORGE H. W. BUSH']
 
-# NOTE: The '\' character breaks input across lines
-# NOTE: This can be useful to improve the readability of code
+#NOTE: The '\' character breaks input across lines
+#NOTE: This can be useful to improve the readability of code
 
 # Start by printing the entire list to see what it looks like
 
@@ -121,7 +121,7 @@ aircraft_carriers_new = [[65, 'USS ENTERPRISE',           '11/25/1961', '02/03/2
 
 # Here's a basic example of how to address an element of a list within a list
 print(''); print(aircraft_carriers_new[0][1]); print('')
-# NOTE: Semi-colons can be used to separate multiple commands on the same line
+#NOTE: Semi-colons can be used to separate multiple commands on the same line
 
 
 

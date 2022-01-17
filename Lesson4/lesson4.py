@@ -1,11 +1,11 @@
 """
-Lesson 2
+Lesson 4
 
 Author: 
 Date:   
 """
 
-# NOTE: This problem is from Google's Foobar program which is why it includes an "interesting" storyline
+#NOTE: This problem is from Google's Foobar program which is why it includes an "interesting" storyline
 
 '''
 Gearing Up for Destruction
@@ -67,7 +67,7 @@ Output:
 
 
 def solution(pegs):
-    # TODO: solve this problem
+    #TODO: solve this problem
     
     # Return the answer
     return

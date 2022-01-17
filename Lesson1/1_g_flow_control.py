@@ -24,8 +24,8 @@ aircraft_carriers = {68:'USS NIMITZ',\
                      76:'USS RONALD REAGAN',\
                      77:'USS GEORGE H. W. BUSH'}
 
-# NOTE: The '\' character breaks input across lines
-# NOTE: This can be useful to improve the readability of code
+#NOTE: The '\' character breaks input across lines
+#NOTE: This can be useful to improve the readability of code
 
 # Iterate over the dictionary and print each entry
 # along with it's hull number (e.g., "USS NIMITZ (CVN 68)")
